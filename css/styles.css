@@ -57,7 +57,7 @@ body {
   display: inline-block;
   margin-left: 15px;
 }
-.grid {
+/* .grid {
   display: grid;
 }
 .grid__item {
@@ -82,7 +82,7 @@ body {
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 3;
-}
+} */
 button {
   border: none;
   font-family: inherit;
